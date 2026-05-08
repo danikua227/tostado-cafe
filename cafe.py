@@ -1,5 +1,6 @@
 import streamlit as st
 import dashboard
+
 st.set_page_config(page_title="RoastLab AI", layout="wide")
 
 st.title("COFFEE MAILARD TECH")
