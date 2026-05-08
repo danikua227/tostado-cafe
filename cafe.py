@@ -1,5 +1,4 @@
 import streamlit as st
-import dashboard
 
 st.set_page_config(page_title="RoastLab AI", layout="wide")
 
@@ -15,3 +14,5 @@ Bienvenido al sistema:
 
 Usa el menú lateral para navegar.
 """)
+
+import dashboard
